@@ -1,6 +1,9 @@
 # BMI Calculator
 
 A JavaScript-based Body Mass Index (BMI) calculator that helps you measure your BMI quickly and easily.
+## URL to test: https://advancebmicalculator.netlify.app/
+
+![bmigif-min](https://user-images.githubusercontent.com/37466996/214840647-27eb9033-371d-4f8a-aa29-469f1aa723fd.gif)
 
 ## Features
 
